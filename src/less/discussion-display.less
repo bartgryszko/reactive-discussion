@@ -1,0 +1,50 @@
+.discussion-display {
+  .no-topics {
+    text-align: center;
+    font-size: @font-size-large;
+    margin: @block-spacing-lg;
+  }
+
+  .topic {
+    .clearfix();
+
+    h2 {
+      margin-bottom: @block-spacing-lg;
+    }
+
+    .note {
+      .make-row();
+      margin-bottom: @block-spacing-lg;
+      font-family: @font-family-serif;
+      font-size: @font-size-large;
+
+      .avatar-wrap {
+        .make-xs-column(2);
+        .make-md-column(1);
+
+        @media (max-width:@screen-xs) {
+          display: none;
+        }
+
+        img {
+          width: 100%;
+          border-radius: @avatar-radius;
+        }
+      }
+
+      .text-wrap {
+        .make-xs-column(10);
+        .make-md-column(11);
+
+        .name {
+          display: none;
+          font-weight: bold;
+
+          @media (max-width:@screen-xs) {
+            display: inline;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,961 @@
+{
+  "participants": {
+    "1": {
+      "avatar": "https://s3.amazonaws.com/f.cl.ly/items/320H3s2Z21403h3E2I2y/CR_Photo.jpg",
+      "name": "Charlie Rose"
+    },
+    "22": {
+      "avatar": "https://s3.amazonaws.com/f.cl.ly/items/0r0n0c3A143Y0e123o09/TC_Photo.jpg",
+      "name": "Tim Cook"
+    }
+  },
+  "topics": [
+    {
+      "discussion": [
+        {
+          "speaker": 22,
+          "text": "The Apple watch is the most personal device we’ve ever created. I think it takes us into a whole different area. We had an intense team working on this for three years.  We explored many different things and as the product came to fruition, it became not only the timepiece that you would expect, but a device that can do many different things, include really a whole new way of communicating and connecting with people.  And also, it has a health and fitness component that we think could really be profound."
+        },
+        {
+          "speaker": 1,
+          "text": "Could [it] take your blood pressure and lots of other things?"
+        },
+        {
+          "speaker": 22,
+          "text": "Well it’ll start with the heart. And it will be a sort of a personal trainer for you.  You can set goals and it will reward you for achieving certain things.  You can choose [for it] to interact with your doctor.  You can choose to combine it with other apps on the phone and get a full view of your health and so it’s a whole new area for Apple. We’re all about making great products and enriching people’s lives and we see it as allowing us to do that at a whole different level. The Apple watch is the most personal device we’ve ever created."
+        },
+        {
+          "speaker": 1,
+          "text": "So what’s interesting is that outside the entrepreneurs can design apps for this watch."
+        },
+        {
+          "speaker": 22,
+          "text": "Yes.  We’ve opened it up to developers, and one of the reasons we wanted to announce it before we shipped it is so that the developers will have time to develop software for it. Based on the first few days, I would say there’s going to be a lot of stuff available for it."
+        },
+        {
+          "speaker": 1,
+          "text": "It makes the computer personal?"
+        },
+        {
+          "speaker": 22,
+          "text": "It makes it very personal.  Now, that doesn't take away from the function of it.  The function of it is killer. There is a computer on a chip in here.  You know, it's the first one we've ever done.  There's four or 500 components wrapped in one.  It has everything from the GPU to the CPU to memory and all the rest."
+        },
+        {
+          "speaker": 1,
+          "text": "But you have to have an iPhone for it to work."
+        },
+        {
+          "speaker": 22,
+          "text": "Yeah, it requires an iPhone.  Because they've been designed to work together.  [For] things like messages, it's using the cellular system to pull down your messages.  However, if you go for a run and you don't want to carry your iPhone, music is also in your watch.  And so, with the Bluetooth headset, you can run and listen to your music without your iPhone."
+        },
+        {
+          "speaker": 1,
+          "text": "There’s a fashion item aspect of this, too."
+        },
+        {
+          "speaker": 22,
+          "text": "There is."
+        },
+        {
+          "speaker": 1,
+          "text": "Johnny [Ive] brought in his friend Marc Newson."
+        },
+        {
+          "speaker": 22,
+          "text": "He did.  He did, and Marc is unbelievable.  He’s another great addition to the Apple team.  But Johnny and team recognized that to wear something it had to be incredibly personal.  It had to reflect your taste and and express what you wanted to express about yourself.  It’s sort of like your clothes and your shoes.  You're not going to wear the same thing everybody else does.  And so, most tech companies, I think, look at this as only technology.  We recognize that technology itself isn't sufficient, that it had to have a style element.  It had to be something that you're proud of wearing.  I mean, this is connected to your body."
+        }
+      ],
+      "name": "Apple Watch"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 22,
+          "text": "It’s the thinnest we’ve ever done.  The screen is just to die for.  It’s super fast; it’s lightning fast.  It has a whole new round of wireless technology and so it’s streaming fast on the wireless networks.  It’s really unbelievable and it feels unbelievable in your hand.  Hold it.  I mean, it’s something -- it’s really unbelievable.  The design -- Johnny and his team did such an incredible job here.  It’s really seamless between the glass.  It’s like a singular form."
+        },
+        {
+          "speaker": 1,
+          "text": "Back to what’s next.  I mean, is this -- this represents a continuation of the iPhone."
+        },
+        {
+          "speaker": 22,
+          "text": "Well, a leapfrog, I would say.  But, yes. It’s not the first iPhone.  But it’s the biggest advancement ever in iPhone history, and so we think that the upgrade cycle here and the number of people that will switch from other smartphones -- it will be enormous."
+        }
+      ],
+      "name": "iPhone 6"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "Were you challenged by what Samsung does and what it has in the development of this size personal smartphone?"
+        },
+        {
+          "speaker": 22,
+          "text": "Honestly, Charlie, we could have done a larger iPhone years ago.  It’s never been about just making a larger phone. It’s been about making a better phone in every single way.  And so we ship things when they’re ready. You can still use this phone one-handed because you can tap it twice and the screen will come down. And so the ingenuity here and the fact that we’ve integrated software, hardware, and services which I think only Apple can do -- this phone -- now is the time for it."
+        },
+        {
+          "speaker": 1,
+          "text": "Is the philosophy of Apple, “We don’t have to be first; we want to be prepared to be the best.”?"
+        },
+        {
+          "speaker": 22,
+          "text": "The philosophy’s always been to be the best, not the first. If you look back in time at Apple, the iPod. The iPod was not the first MP3 player.  It was arguably the best, and arguably it was the first modern one, but not the first.  The iPhone was not the first smartphone.  Blackberry was shipping phones, Palm was shipping phones.  iPhone was the first modern smartphone.  And then if you look at iPad, tablets were shipping a decade before.  And yet, iPad arguably was the first modern tablet and the first one that met commercial -- any level of commercial success."
+        }
+      ],
+      "name": "Apple's philosophy"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "The health care business is a huge sector of our economy. Is [the Apple Watch] your entree into into that in some way?"
+        },
+        {
+          "speaker": 22,
+          "text": "Yeah.  I see this is huge, Charlie."
+        },
+        {
+          "speaker": 1,
+          "text": "Trillions of dollars."
+        },
+        {
+          "speaker": 22,
+          "text": "I'm not looking at it just from the monetary piece of it -- we do want to enrich people's lives. We want to do both.  With health care, there is a wide open field to make some really profound contributions.  And so, our entry into this is we announced HealthKit in June. [With] HealthKit you can begin to take all of the data that's in all of your health apps and aggregate those.  You might elect just to use that yourself.  You might elect to interact with your doctor on them. Now, all of a sudden, we've also got a device that gathers certain fitness data about you.\nThis is yet another way to begin to build a comprehensive view of your life, which should empower you to take care of yourself over time.  And when you need help, it empowers you to take certain data to your doctor to get help from them. All while guarding your privacy so that nobody getting the data -- if you don't want them to have the data, nobody sharing the data, if you don't want them to share the data.  And no, we're not keeping it."
+        }
+      ],
+      "name": "Health and Fitness"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "The arena where you had it is where Steve introduced 30 years ago Macintosh.  When you introduced the watch, you famously said, One more thing.  Words that Steve had used.  Where is Steve in all this?"
+        },
+        {
+          "speaker": 22,
+          "text": "He's in my heart.  And he is deep in Apple's DNA.  His spirit will always be the foundation of the company. I literally think about him every day.  His office is still left as it was."
+        },
+        {
+          "speaker": 1,
+          "text": "On the fourth floor?"
+        },
+        {
+          "speaker": 22,
+          "text": "On the fourth floor.  His name is still on the door.  If you think about the things that Steve stood for, at a macro level, he stood for innovation.  He stood for the simple, not the complex.  He knew that Apple should only enter areas where we can control the primary technology.  All of these things are still deep in our company.  They're still things that we very much believe.  The strive for perfection, for being the best, for only doing the best products, for staying focused -- the fact that -- despite this table being so small, that you and I are sitting at, you could put every Apple product on it.  Every single one that we ship today.\nAnd yet, this year our revenues will be, you know, approximately 180 billion.  There's probably no other company on the face of the earth that could say that.  Most companies begin to do larger and larger and larger portfolios because it's so easy to add [products].  It's hard to edit.  It's hard to stay focused.  And yet, we know we'll only do our best work if we stay focused.  And so, you know, the hardest decisions we made are all the things not to work on, frankly."
+        }
+      ],
+      "name": "Steve Jobs"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 22,
+          "text": "A TV is one [product] that we continue to have great interest in."
+        },
+        {
+          "speaker": 1,
+          "text": "[laughs]"
+        },
+        {
+          "speaker": 22,
+          "text": "I choose my words carefully there. TV is one of those things that, if we're really honest, it's stuck back in the '70s.  Think about how much your life has changed and all the things around you that have changed.  And yet, TV -- when you go in your living room to watch the TV or wherever it might be, it almost feels like you're rewinding the clock and you've entered a time capsule, and you're going backwards.  The interface is terrible."
+        },
+        {
+          "speaker": 1,
+          "text": "Yes."
+        },
+        {
+          "speaker": 22,
+          "text": "I mean, it's awful.  And you watch things when they come on unless you remember to record them."
+        },
+        {
+          "speaker": 1,
+          "text": "So, why don't you fix that?"
+        },
+        {
+          "speaker": 22,
+          "text": "Well, you know, I don't want to get into what we're doing in the future.  But we've taken steps with Apple TV.  And Apple TV now has over 20 million users.  It has far exceeded the hobby label that we that we placed on it.  And we've added more content to it this year.  There's increasingly more things that you can do on there.  But this is an area that we continue to look at."
+        }
+      ],
+      "name": "A TV from Apple"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "Steve was a visionary.  Can Tim continue the Apple tradition of creating new products every four years or less?  Can he reach into the future?  Does he have that kind of makeup?  Did that concern you?  Did you think about that?  Were you committed to prove that Apple had a future beyond the groundwork that Steve Jobs had laid?"
+        },
+        {
+          "speaker": 22,
+          "text": "He called me one weekend in August of  '11.  And he said, \"I'd like to talk.\" And I said, \"Oh, okay.\" And I go \"When?\" And he goes, \"Now.\" I go -- \"Yeah, I'll be right over.\" And he told me, \"I've been thinking a lot.  Apple has never had a professional transition at CEO.  I'm determined that we will have one now.  I want you to be the CEO.\" And honestly, I didn't see it coming."
+        },
+        {
+          "speaker": 1,
+          "text": "You did not see it coming?"
+        },
+        {
+          "speaker": 22,
+          "text": "I know you could look at me with disbelief, but--"
+        },
+        {
+          "speaker": 1,
+          "text": "Yes."
+        },
+        {
+          "speaker": 22,
+          "text": "You can say I was in denial or whatever, but I thought Steve was getting better.  He was still at home, but I felt he was getting better.  I was seeing him regularly.  At the end of the day, I always thought he would bounce.  He always had.  He had some incredible lows in his health, and it had always bounced.  And I always believed he would. And so, it took me a little by surprise. He had talked to me about being CEO before. I always knew it was his long-term thinking."
+        },
+        {
+          "speaker": 1,
+          "text": "That you would become the CEO."
+        },
+        {
+          "speaker": 22,
+          "text": "That I would become the CEO."
+        },
+        {
+          "speaker": 1,
+          "text": "But not then."
+        },
+        {
+          "speaker": 22,
+          "text": "But not that specific moment.  And so, he and I had a discussion back and forth.  I said, \"You know, well, what kind of things do you want to do as chairman versus he did?\" Just sort of having a good banter with him. I said, for example, \"Ads.  Do you want me to just do the ones that I think are right, or do you want to be involved in it?” And he said, well I hope you’ll ask my opinion on some things.  But he, I thought Charlie, on that day, that he would be chairman for a long time, that I’d be CEO for a long time, and that we would continue to work together.\nAnd he knew, when he chose me, that I wasn't’t like him, that I’m not a carbon copy of him.  And so he obviously thought through that deeply, about who he wanted to lead Apple.  So that, I have always felt the responsibility of.  And I wanted desperately to continue his legacy.  And the Apple I deeply loved, so from the onset, I wanted to pour every ounce that I had in myself, into the company.  But, in terms of being everything he was, I’ve never had that objective.  I’ve never had the objective of being like him, because I knew, the only person I can be is the person I am."
+        },
+        {
+          "speaker": 1,
+          "text": "Right."
+        },
+        {
+          "speaker": 22,
+          "text": "Right?  And I’m not an actor.  I’d be terrible in Hollywood.  And that’s what I’ve done.  I’ve tried to be the best Tim Cook I can be.  And I think the reality is, that Apple has always had incredible contributors at very high levels.  Johnny’s been there forever and contributing at an incredible level.  As has Craig and Jeff and Dan, and you just go around the table.  We have a new CFO now.  There’s, this group of people, and we’ve recruited Angela.  Angela now runs retail, Angela Ahrendts, she is fantastic.  This level of people are capable of doing incredible things and you know, it’s a privilege of a lifetime to work with them."
+        }
+      ],
+      "name": "Being CEO"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "And you have a picture in your office of Martin Luther King, and a picture of Robert F.  Kennedy. Robert F. Kennedy, after his brother’s assassination, someone said, the difficulty for him well, he’ll have no RFK, as he was to his brother Jack.  So, I might ask the question, do you have a Tim, as you were Tim to Steve?"
+        },
+        {
+          "speaker": 22,
+          "text": "I think each person, if you’re a CEO, the most important thing is to have, to me, is to pick people around you that aren’t like you, that complement you.  Because you want to build a puzzle, you don’t want to stack chiclets up and have everyone be the same.  And so I believe in diversity with a capital D.  And that’s diversity in thought and diversity any way you want to measure it.  And so the people that surrounding me are not like me. They have skills that I don’t have.  I may have some that they don’t have.  What we do as a team collectively are able to do some incredible things.  And it’s because we collaborate, and I see one of my key things in life is to make sure that we collaborate as an incredible level.  Because we run the company functionally.\nWe’re not like the typical big company that has n number of divisions and n number of [profits and losses]. Everybody is a functional expert.  And then we collectively, to get things done, work together as a team. Because the work really happens horizontally in our company, not vertically.  Products are horizontal.  It takes hardware plus software plus services to make a killer product.  So, all of these people, if you were to line us up and talk to everyone, you know several of them, we’re all different.  And that’s the power of it.  Is that we’re not trying to put everyone through a car wash so they look alike, talk alike, think alike at the end of the day.  We argue and debate.  If you were to come in to our executive team meetings on Mondays, you’d hear a lot of discussion and debate about something.  We don’t always agree on everything.  But we have great respect for one another and we trust one another and we complement one another.  And that makes it all work."
+        },
+        {
+          "speaker": 1,
+          "text": "Did the team, you leading the team, have any question that you could accomplish what you did, knowing those questions were out there, about the future of Apple?"
+        },
+        {
+          "speaker": 22,
+          "text": "I think for me, I can’t talk about what everybody else thinks, but for me, I’m, one great skill I have is blocking noise.  And so I -- I typically read and listen to things that are deep and challenging and intellectual in nature.  Not the -- just the noise.  I think if you get caught up in the noise as a CEO, you’re going to be a terrible CEO.  Because there’s so much noise out there in the world that everybody’s on the sidelines saying what you should do, shouldn’t do, et cetera.  It’s sort of like the old Roosevelt quote in the arena."
+        },
+        {
+          "speaker": 1,
+          "text": "Right."
+        },
+        {
+          "speaker": 22,
+          "text": "Right?"
+        },
+        {
+          "speaker": 1,
+          "text": "Teddy Roosevelt."
+        },
+        {
+          "speaker": 22,
+          "text": "Yes."
+        },
+        {
+          "speaker": 1,
+          "text": "The credit belonged to the man in the arena who gets dirty and all of those things."
+        },
+        {
+          "speaker": 22,
+          "text": "Yes.  Well, I’m the dirty one.  And you have to block the noise and so the question I think is did I have doubts?  The answer’s no.  And did the executive team have doubts.  I think you can see in our products that we were all betting on each other in a big way."
+        },
+        {
+          "speaker": 1,
+          "text": "If Apple is becoming -- it’s building on its tradition, but it’s doing things different.  Steve said to you, “Don’t ever ask yourself, ‘What would Steve do?’”  Correct?"
+        },
+        {
+          "speaker": 22,
+          "text": "He did."
+        },
+        {
+          "speaker": 1,
+          "text": "Don’t ask that.  Do what you think you need to do based on the circumstances that you face.  So, is Apple becoming more open?  I’ve mentioned the fact that people who have apps -- great apps can do it for the watch.  You’re now engaged in partnerships with people like IBM.  You’ve made an acquisition.  Tell me where is Apple going."
+        }
+      ],
+      "name": "Culture"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "Are we interested in enterprise because we can partner with IBM?"
+        },
+        {
+          "speaker": 22,
+          "text": "IBM is a great one to talk about because I think it will give you an insight into how we look at things [now]. We look at these products and the iPads that aren’t here and we think we can change the way people work.  We’ve changed the consumers’ lives.  We’ve changed the way students learn and teachers teach.  But when you get to the working environment, the change that we’ve made to us isn’t significant enough.  And so we begin to ask ourselves why.  Why haven’t we done more?  And the real answer is in the applications. There’s not enough apps that have been written for very deep verticals like what the airline pilot does.  What the bank teller does.  Down at the level of the job. And so we begin to ask ourselves should we do this or should we partner or should we just forget it?\nAnd I didn’t want to forget it because this is the way to enrich people’s lives in a big way, to change the way people work.  I mean, most of our life is spent working. And certainly our apps are changing the way I work, but I’m not seeing it as much in other places.  And so we begin looking out and thinking about, “Well, who could we partner with?”  And Ginni and I have been talking about some other things for a while.  I have great respect for her, great trust of her."
+        },
+        {
+          "speaker": 1,
+          "text": "She’s the CEO of IBM."
+        },
+        {
+          "speaker": 22,
+          "text": "As the CEO of IBM.  She’s fantastic.  And we began to talk about this area.  You know, this is an area where they’ve got things that we don’t have.  They have deep, vertical knowledge of many different verticals, right?  They have a huge sales force, and so IBM brings significant enterprise knowledge to the table.  We bring the products that enterprise want, and so we have something they don’t have.  Well, we also don’t compete on anything.  To me, this is the perfect marriage.  There’s no friction.  There’s just, we have what they need; they have what we need.  And so IBM is in the process with our help of designing many different apps for many different verticals.  From banking to all the different financial services to pharmaceutical to aerospace and manufacturing and so on and so forth.  And they have to go to market that we don’t have.  And so this is an area where I think that everybody’s going to win. We’re going to win, IBM’s going to win, and more importantly than both of us, the customer’s going to win."
+        },
+        {
+          "speaker": 1,
+          "text": "Why did you think you had to buy a headphone manufacturer?"
+        },
+        {
+          "speaker": 22,
+          "text": "In Beats, what we saw is several things.  We saw --"
+        },
+        {
+          "speaker": 1,
+          "text": "Talent."
+        },
+        {
+          "speaker": 22,
+          "text": "-- a talent that I'm super impressed with.  Jimmy and Dre -- off the charts.  Creative geniuses. They also had teams under Newson that I've really liked.  Jimmy has a deep knowledge of the musical industry.  Dre knows artists.  Dre is an artist.  And they had started a subscription service.  And this subscription service -- some people think they're all alike.  Well, let me tell you -- I went into the [deal] skeptically."
+        },
+        {
+          "speaker": 1,
+          "text": "As to the acquisition?  Yeah."
+        },
+        {
+          "speaker": 22,
+          "text": "Not to the acquisition.  Into their service."
+        },
+        {
+          "speaker": 1,
+          "text": "Right."
+        },
+        {
+          "speaker": 22,
+          "text": "Because Jimmy had told me how great it was.  And so, one night, I'm sitting playing with theirs versus some others.  And all of a sudden, it dawns on me that when I listened to theirs for a while, I feel completely different.  And the reason is that they recognized that human curation was important in the subscription service, that the sequencing of songs that you listen to affects how you feel.\nIt's hard to describe.  But you know it when you feel it.  And so, that night, I couldn't sleep that night.  And so, I was thinking, \"We've -- we need to do this.\" I think they've done a fabulous job with their brand.  And -- in the headphone business.  It's a fast-growing business.  They went into [it] not too long ago, and, you know, have done really well.  However, they needed a global footprint.  We have a global footprint.  They had been primarily U.S., not solely U.S., but primarily U.S..  And so, I felt we could get a subscription service.  We could get incredible talent that I think we can all put our heads together and do some things that are beyond what either of us are currently doing.  And we could get a fast-growing business.\nAnd, you know -- financially, it's not the only element of looking at it at all.  But next year, in our fiscal year, which is about to start, it's a creditive [spelled phonetically].  When is the last time you heard of a technology CEO saying that they were doing an acquisition that was a [unintelligible]?  And it just doesn't happen.  And so, I think it's wonderful to get the influx of talent, the different perspectives.  It's this idea -- diversity -- that I use in a big way.  I think it's really going to help us.  And I [am] -- 100 percent sold on the subscription -- music subscription service.  And of course, we can scale it, where Beats would have had a more difficult time, because they're a small company."
+        }
+      ],
+      "name": "IBM partnership"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "Is the new chapter in Apple also defined by the fact that you're moving away from just being essentially a hardware company?"
+        },
+        {
+          "speaker": 22,
+          "text": "You know, I wouldn't say that we were ever just a hardware company. The significant part of the iPhone is the software and the services. It's just that we don't split out the price between the hardware and the software and the services."
+        },
+        {
+          "speaker": 1,
+          "text": "It's all part of your own ecosystem."
+        },
+        {
+          "speaker": 22,
+          "text": "It's part of our own ecosystem.  And we do that because it all works together.  It just works when you do it that way.  When you split the two, you wind up with -- I mean, think about what happened in the PC area. When you had a Windows and a separate OEN that was doing hardware, and then somebody else that was doing apps.  And you have a problem.  You're pulling your hair out.  You call the help desk.  And the help desk tells you to call another help desk.  And that help desk tells you to call somebody else.  And the other guy doesn't even have a help desk.  So, we recognized early on that these kind of devices, you really need to have a womb-to-tomb view of them for the customers' sake.  And so, if somebody calls us, it's our problem.  We're not passing the buck.  And so, I think you get a much better customer experience."
+        },
+        {
+          "speaker": 1,
+          "text": "But do you miss opportunities to take advantage of a whole group of people?"
+        },
+        {
+          "speaker": 22,
+          "text": "Well, look at our ecosystem, Charlie.  I mean, we've got nine million registered developers.  And so, we're not having a problem getting people to develop our platform.  If you were at our conference in June, in San Francisco, there's developers there from almost every country in the world.\nWe have incredible access to innovation.  And we also view it and treat it -- it's a privilege to work with the developers we do.  And so, we treat them like it's a privilege.  And from their point of view, they get to design something from a company that has over 90 percent of their customers on one version of the operating system.  So, we're not fragmented like Android is, right?  We've got -- we'll release iOS 8 next week.  And right now, iOS 7, the one that we just released a year ago 92 percent of our customers are running iOS 7.  If you looked at a comparable number for Android, it's very low.  It's extremely low.  If you looked at a comparable number for Windows, on the PC side, very low.  And so, you can really write software to the latest, or write your app to the latest software versus spending your time on all of these versions and iterations and so forth.\nSo, it's great from their point of view.  And they get to sell their product worldwide.  Think about how it used to be if you were a developer.  You had to go negotiate with every retailer.  And there's no global retailers.  And so, you were negotiating in every country in the world, trying to get your product on the shelf.  Here, you can push a button -- we review it.  And it quickly gets in the App store.  And it's in the App Store in 155 countries. I mean, it's really shocking -- the jobs that this thing has created is unbelievable.  We're now, between the people that we employ directly and the -- the developers -- the developers are a big piece of this -- we're responsible for a million jobs in the United States.  And a lot of that are people that had concluded to write apps."
+        }
+      ],
+      "name": "Apple's Future"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "Who is your competition?"
+        },
+        {
+          "speaker": 22,
+          "text": "Well, Google."
+        },
+        {
+          "speaker": 1,
+          "text": "People would say --"
+        },
+        {
+          "speaker": 22,
+          "text": "Google."
+        },
+        {
+          "speaker": 1,
+          "text": "-- Samsung instantly, because of the products.  They make smartphones like this.  Not like this, but they make smartphones.  They have the Android operating system, which is the largest operating system in the world."
+        },
+        {
+          "speaker": 22,
+          "text": "But Google supplies that to them.  And so, I think I would say --"
+        },
+        {
+          "speaker": 1,
+          "text": "Google is your competition."
+        },
+        {
+          "speaker": 22,
+          "text": "Google is the top [competitor].  And then they enable many people in the hardware business -- like Samsung. And Samsung is the best of the hardware companies in the Android sphere."
+        },
+        {
+          "speaker": 1,
+          "text": "Google is competition.  Who else?"
+        },
+        {
+          "speaker": 22,
+          "text": "You know?  Who else?"
+        },
+        {
+          "speaker": 1,
+          "text": "In terms of most people's considerations, Amazon, Apple, Facebook."
+        },
+        {
+          "speaker": 22,
+          "text": "Yeah.  I don't consider Facebook a competitor.  I consider Facebook a partner.  We're not in the social networking business."
+        },
+        {
+          "speaker": 1,
+          "text": "And will not be?"
+        },
+        {
+          "speaker": 22,
+          "text": "We have no plans to be in the social networking area.  We partner with both Facebook and Twitter.  And we had integrated both of them into the operating system.  And so [we] worked closely with both of them so that our customers can get access in a different and unique way to their services.  And we like both companies."
+        },
+        {
+          "speaker": 1,
+          "text": "Amazon?"
+        },
+        {
+          "speaker": 22,
+          "text": "Amazon -- we don't work with that much.  We have little relationship there.  They've come up with a phone.  You don't see it in a lot of places.  They have some tablets.  But they're not a product company.  Apple is a product company.  And so, in the long term, will they become a bigger product company?  I don't know.  You would have to ask Jeff what his plans are.  But when I  think of competitor, I would think of Google much above everyone else."
+        }
+      ],
+      "name": "Competition"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "When you do something that's not as much of a success, and I'm obviously thinking of maps, and you look at it, what did you do wrong?"
+        },
+        {
+          "speaker": 22,
+          "text": "Oh, we screwed up.  There are many screw ups in that one.  There's just not one.  There's many.  And we've learned and corrected and are continuing to invest in maps, because our fundamental premise that maps were really key to Apple is the same.  But we did screw up on the release.  It should not have happened like it did.  It shouldn't have come out.  And you know, sometimes, when you're running fast, you slip and you fall. And I think the best thing you can do is get back up and say, \"I'm sorry.\" And you try to remedy the situation, and you work like hell to make the product right.  If you're probably never making a mistake, you're probably not doing enough."
+        },
+        {
+          "speaker": 1,
+          "text": "I mentioned at the beginning of the interview, when you made a decision in 1998 about Apple.  You had some reservations.  But at the same time, during your interview with Steve, you said, something like this, I was prepared within five minutes to throw caution to the wind.  What did he say that made you believe this company is the place for Tim Cook?"
+        },
+        {
+          "speaker": 22,
+          "text": "It was an interesting meeting.  I had gotten a call several times from the search people that he had employed.  And I said no, I was at Compaq, I was happy, or thought I was.  And they were persistent.  And so I finally thought, I’m going to go out and take the meeting.  Steve created the whole industry that I’m in, I’d love to meet him. And so I’m honestly going into the meeting."
+        },
+        {
+          "speaker": 1,
+          "text": "There’s no downside of this."
+        },
+        {
+          "speaker": 22,
+          "text": "Well I’m just thinking I’m going to meet him and all of a sudden he’s talking about his strategy and his vision, and what he was doing was going 100 percent into consumer. When everybody else in the industry had decided you couldn’t make any money on consumers so they were headed to services and storage and enterprise.  And I thought, I’d always thought that following the herd was not a good thing, that it was a terrible thing to do right?  You’re either going to lose big, or lose, but those are the two options.  He was doing something totally different.  And he told me a little about the design, enough to get me really interested.  And he was describing what later would be called the iMac.  And the way that he talked, and the way the chemistry was in the room, it was just he and I.  And I could tell, I can work with him.  And I looked at the problems Apple had, and I thought you know, I can make a contribution here.  And working with him, and this is a privilege of a lifetime.  And so all of a sudden I thought, I ‘m doing it.  I’m going for it.  And you have this voice in your ear that says go west young man, go west.  I was young at the time.  But you know, you come back and you try to do the things that people do with spreadsheets and stuff, and none of it makes sense.  It didn’t make sense.  And yet, my gut said, go for it.  And I listened to my gut.  There was literally no one around me that was inviting doing it."
+        },
+        {
+          "speaker": 1,
+          "text": "But in your speech at Auburn, your commencement speech, you spoke to intuition."
+        },
+        {
+          "speaker": 22,
+          "text": "Yes.  And that’s what I mean by gut. My intuition was telling me loudly to go.  And it wasn’t based on, you know as an engineer you want to write down pros and cons, and the financial part you want to look at, and you want it to say go.  You want it to sort of validate the decision that your guts  come.  And it never did. Because, you know Michael Dell had made a comment weeks earlier that if he were the CEO, and he was a very, is and was a very respected CEO, that if he were the CEO of Apple, he would close it down and give the money back to shareholders. That it had no future."
+        },
+        {
+          "speaker": 1,
+          "text": "I remember he said that."
+        },
+        {
+          "speaker": 22,
+          "text": "He was just saying what everybody thought."
+        },
+        {
+          "speaker": 1,
+          "text": "They didn’t know Steve Jobs."
+        },
+        {
+          "speaker": 22,
+          "text": "They didn’t know Steve.  And so in that meeting, I concluded all of those guys are wrong.  They don’t know him and they don’t know his vision.  They see things in the traditional way, which Steve never did.  He was always looking well beyond the norm."
+        },
+        {
+          "speaker": 1,
+          "text": "And [unintelligible] the beginner’s eye."
+        },
+        {
+          "speaker": 22,
+          "text": "Yes, he had a gift for that. He clearly had a gift for that.  And he took that gift and embedded it in the company.  It wasn’t a gift that he kept to himself.  I loved many things about him, as a dear friend. But he also was a great mentor.  He was a great teacher.  This is something that’s never written about him.  But what he left in not just me, but many of us, is what he taught us.  He was one of the best mentors in the world."
+        },
+        {
+          "speaker": 1,
+          "text": "This is more than perfectionist."
+        },
+        {
+          "speaker": 22,
+          "text": "Oh, it’s much more than that.  No, it’s much more than that because that’s just holding the bar so high that it’s very hard to hit.  It’s teaching and making sure people are learning and him taking such an interest he’s going out of his way to do this.  And I saw him do that over many years -- well, not just [with] me but [also with] many people.  And I think it’s a huge, huge part of what he did that’s missed in most of the things that I’ve read."
+        },
+        {
+          "speaker": 1,
+          "text": "The misconception misses that.  The teaching aspect of it."
+        },
+        {
+          "speaker": 22,
+          "text": "It does.  That and the human aspect of it.  He was an incredible human being and I’ve never read anything that really captured him.  Or captured the Steve I knew."
+        },
+        {
+          "speaker": 1,
+          "text": "One of the products you introduced is ApplePay.  Now, do you have a relationship with credit cards in creating ApplePay?"
+        },
+        {
+          "speaker": 22,
+          "text": "We do."
+        },
+        {
+          "speaker": 1,
+          "text": "Some say, “Why not just go around them?  You know, be disruptive.”"
+        },
+        {
+          "speaker": 22,
+          "text": "Well, as it turns out, people love their credit cards. And so I don’t know what credit cards you have."
+        },
+        {
+          "speaker": 1,
+          "text": "Too many."
+        },
+        {
+          "speaker": 22,
+          "text": "But many people love their credit cards because they might love that you collect airline points."
+        },
+        {
+          "speaker": 1,
+          "text": "Right."
+        },
+        {
+          "speaker": 22,
+          "text": "So we looked at the industry and we said, “You know, people like that part.” And so we’re about making the user’s life better.  Making the experience better.  We saw all the mobile payment stuff that had been done as none of it was making anybody’s life better.  It was more about creating a business model for someone else to make money.  We started with the user and we said, “What do they really want?”  Well, nobody wants to carry a wallet.  You don’t want another thing that you have to remember to put in your pants when you walk out the door.  You don’t want another thing to lose.  You don’t really want this card with exposed numbers on it that has a huge security risk on it, and so we’ve fixed the security issue.\nOur system is much more secure than the traditional credit card system is.  We kept the thing that people liked, which is they do love their card.  And we said, “We don’t want any of this data, so we’re not doing what other companies are doing. We don’t want to know what you’re buying.  We don’t want to know where you’re buying it.  We don’t want to collect all this stuff on Charlie.  I don’t want to know where you’re spending your nights.”  And so we’ve firewalled all the stuff where we don’t keep it.  It’s not on our servers.  And so we kept what’s great and fixed what wasn’t.  The retailers love it because it’s a far more efficient way for people to check out."
+        },
+        {
+          "speaker": 1,
+          "text": "Tell us how it works."
+        },
+        {
+          "speaker": 22,
+          "text": "It’s very simple. Literally, all you have to do -- this phone’s not wired, but if it were, all I would have to do is touch the iTouch or the Touch ID rather.  And hold it within a proximity of the terminal and that’s it. It’s done.  The transaction is finished because you’ve authenticated with your fingerprint. It’s hard to steal a fingerprint.  And you’ve not pulled out a card, you’ve not jostled through your wallet for something you may have lost.  You haven’t had to run your credit card through a machine several times and for it to reject your card.  None of that is done.  It’s as simple as boom, boom.  It’s done."
+        }
+      ],
+      "name": "Apple Maps"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "Technology is a very global thing, as you well know, as well as anyone.  Emerging markets are where a lot of people are coming to the middle class and they have buying power."
+        },
+        {
+          "speaker": 22,
+          "text": "Absolutely."
+        },
+        {
+          "speaker": 1,
+          "text": "China, Brazil, lots of other places.  How do you see that market and how does Apple do well in that market?"
+        },
+        {
+          "speaker": 22,
+          "text": "Well, in China, if you look back at the last year, our business in greater China is about 30 billion.  And to my knowledge that’s larger than any American company, certainly in technology and maybe the largest of any period. We put a lot of energy in there for years.  We’ve had very fast growth, but you’re exactly right. Ultimately what’s causing that is you have a significant number of people moving into the middle class.  Large numbers -- unprecedented numbers.  This is also happening in Brazil.  It’s happening in Turkey.  It’s happening in Thailand, it’s happening in Malaysia.  It’s happening in many different places.  Indonesia’s beginning.  It’s at a different place in that curve."
+        },
+        {
+          "speaker": 1,
+          "text": "Does price point become an issue?"
+        },
+        {
+          "speaker": 22,
+          "text": "Yeah. Income is a gating factor.  But there's a lot of retailers that will allow smart phones to be paid for over time.  In China, there's a subsidy on smart phones if you sign a contract, much like the United States. And so, there are ways to make it more affordable. Also, this is iPhone 6 and 6-Plus. But we also sell iPhone 5S."
+        },
+        {
+          "speaker": 1,
+          "text": "Yes."
+        },
+        {
+          "speaker": 22,
+          "text": "And iPhone 5C.  And all of these just got lower prices on Tuesday because of the entry of the new products.  And so, you will find in emerging markets -- the mix of product sales are sometimes different in those markets versus other markets."
+        }
+      ],
+      "name": "Emerging Markets"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "You spend a lot of money on research."
+        },
+        {
+          "speaker": 22,
+          "text": "We spend a lot of money in R&D. And that number has ramped dramatically.  That's true.  Some of that is spent for things that aren't shipping yet. The Apple Watch is an example of that.  I've announced it now so everybody can see it.  But we've been spending money for three years on it.  Because we started development about three years ago.  And there's obviously other things that we're working on, that right now, isn't apparent."
+        },
+        {
+          "speaker": 1,
+          "text": "Here's what's interesting about you and about Steve Jobs --"
+        },
+        {
+          "speaker": 22,
+          "text": "We're both secretive."
+        },
+        {
+          "speaker": 1,
+          "text": "Yeah. [laughs] Exactly.  Exactly! It's hard to get something -- there's also this, though.  You guys have ideas for products that might be part of the future, which no one knows about."
+        },
+        {
+          "speaker": 22,
+          "text": "There are products that we're working on that no one knows about, yes.  That haven't been rumored about yet.  Yes. And part of some of those are going to come out and be blow-away, probably.  And some of those we'll probably decide, \"You know, that one we're going to stop.\" And so, we kick around a lot of things internally. And we might start something and get down the road a little bit, and have a different idea. I mean, Steve told a story on about the iPad. You know, iPad was started way in advance of when it came out.  Many years before."
+        },
+        {
+          "speaker": 1,
+          "text": "Tablets was not a new idea."
+        },
+        {
+          "speaker": 22,
+          "text": "It was not a new idea. It was shelved because of the idea to make iPhone. And the team was relocated to work on iPhone. And then the iPhone came out.  And after iPhone got up and running, [we] brought the iPad out.  And so, you may find something along the route to doing something that you want to do that you wouldn't have imagined or gotten there unless you started on that road.\nA lot of what leads to innovation is curiosity.  It's curiosity to begin pulling a string, and you see where it takes you.  And a lot of what we do isn't apparent to the public in the beginning, where it's going to lead. Touch ID is an example.  We did touch ID a year ago.  A lot of people just thought Touch ID was a way to get into your phone.  And it's very cool at doing that.  But then we also said, \"Well, you can buy stuff from Apple with it.\" Obviously, we, the entire time, were planning to do a much broader roll out for mobile payments with Touch ID.  But we invest in a lot of things that have long tentacles."
+        },
+        {
+          "speaker": 1,
+          "text": "Hacking of iCloud, caused a lot of people --"
+        },
+        {
+          "speaker": 22,
+          "text": "It wasn't hacked.  There's a misunderstanding about this.  If you think about what hacking iCloud would mean, it means somebody would get into the cloud and could go fish around in people's accounts. That didn't happen. What happened was that -- like, let's take you.  It didn't happen to you, I hope. But let's take you as an example.  Somebody could say, \"Oh, you know, I mean, I know Charlie's ID from -- somehow.\""
+        },
+        {
+          "speaker": 1,
+          "text": "\"I know his e-mail perhaps, or\" --"
+        },
+        {
+          "speaker": 22,
+          "text": "Maybe it's his e-mail.  And they may guess your password -- or that's not as likely.  They might phish it."
+        },
+        {
+          "speaker": 1,
+          "text": "Right."
+        },
+        {
+          "speaker": 22,
+          "text": "How do you phish it?  I could pretend to be somebody else.  And you could unknowingly give me your password.  And that happens on the Internet too many times today.  That's the number one issue, by far.  And it's not an Apple issue.  This is an internet issue.  You just saw that this happened to millions of Gmail users."
+        },
+        {
+          "speaker": 1,
+          "text": "Right."
+        },
+        {
+          "speaker": 22,
+          "text": "They were phished.  My understanding is it wasn't a breach there, either, of the infrastructure.  It was a phishing expedition.  There are lots of bad people that do this.  And what we said was, instead of just saying, \"Hey, if there's a lot people to do this,\" we need to figure out, \"Well, how can we try to protect our customers on this?\" That's our top goal.  And so, we're working internally about how to bring more awareness to these schemes and trying to do things to do --"
+        },
+        {
+          "speaker": 1,
+          "text": "Public information process."
+        },
+        {
+          "speaker": 22,
+          "text": "Well, some of it is that."
+        },
+        {
+          "speaker": 1,
+          "text": "Yeah."
+        },
+        {
+          "speaker": 22,
+          "text": "Some of it is like an old public service announcement used to be."
+        },
+        {
+          "speaker": 1,
+          "text": "Right."
+        },
+        {
+          "speaker": 22,
+          "text": "In addition, we have to do things where it notifies the customer quickly if it does happen. That's reactive. And you know, we don't want it to happen at all, but if it does, you probably want to know instantly.  There are some other things that I can't describe right now, where we think we can make a contribution beyond just making sure the cloud's not hacked --"
+        },
+        {
+          "speaker": 1,
+          "text": "Yeah.  This is different than the hacking of Home Depot or the hacking of --"
+        },
+        {
+          "speaker": 22,
+          "text": "Very different."
+        },
+        {
+          "speaker": 1,
+          "text": "-- of Target."
+        },
+        {
+          "speaker": 22,
+          "text": "Yeah.  It's totally different."
+        }
+      ],
+      "name": "Product Development"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "A couple of bigger questions beyond Apple."
+        },
+        {
+          "speaker": 22,
+          "text": "Yeah."
+        },
+        {
+          "speaker": 1,
+          "text": "You once said to me, at a conference, and I was about ready to go in and interview someone, [inaudible]. I said, \"What do you think I should ask?\" And you said -- either facetiously or not -- \"Ask him what comes after the Internet.\""
+        },
+        {
+          "speaker": 22,
+          "text": "I remember telling you that.  And I remember your reaction.  You were like this."
+        },
+        {
+          "speaker": 1,
+          "text": "Yes."
+        },
+        {
+          "speaker": 22,
+          "text": "I wanted you to ask him because I wanted to hear what they were going to say."
+        },
+        {
+          "speaker": 1,
+          "text": "Exactly. [laughter]"
+        },
+        {
+          "speaker": 22,
+          "text": "I think you have to think about things like that."
+        },
+        {
+          "speaker": 1,
+          "text": "Yeah."
+        },
+        {
+          "speaker": 22,
+          "text": "And sometimes, in the Valley, everybody can get so fixated on one thing.  And lots of companies pop up and do those things.  And you're not thinking enough about the next next next thing.  And so, it's something that we think about. And I don't know what the answer is.  We always had some ideas here and there."
+        },
+        {
+          "speaker": 1,
+          "text": "Well, give me one."
+        },
+        {
+          "speaker": 22,
+          "text": "Well, I don't want to give you one. [laughter] I don't want anybody else to copy it.  I mean, you have people out there that copy us --"
+        },
+        {
+          "speaker": 1,
+          "text": "Okay."
+        },
+        {
+          "speaker": 22,
+          "text": "-- and so, I don't want to help them do that."
+        },
+        {
+          "speaker": 1,
+          "text": "In this country, we've had to, because of Edward Snowden and other [unintelligible].  Try to come to grips with the idea of freedom, privacy, and national security.  Where is that debate?"
+        },
+        {
+          "speaker": 22,
+          "text": "I think it’s a tough balance. And I don’t think that the country, or the government’s found the right balance.  I think they erred too much on the collect everything side. And I think the president and the administration is committed to kind of moving that pendulum back. However, you don’t want, it’s probably not right to not do anything.  And so I think it’s a careful line to walk.  You want to make sure you’re protecting American people.  But you don’t want to take, there’s no reason to collect information on you.  But people, are 99.99 percent of other people."
+        },
+        {
+          "speaker": 1,
+          "text": "A lot of people say, you know, have said to me, there’s a whole ton of information already out there, that are in the possession of companies like Google, like so many other companies, that that information is there and they worry about that.  Too much personal information is out there and who has access to it, that kind of thing, which is different from than the national security implications of what you do to listen in on people’s phone conversations or what technology companies do to provide a list of whatever might happen."
+        },
+        {
+          "speaker": 22,
+          "text": "We take a very different view of this than a lot of other companies have. Our view is, when we design a new service, we try not to collect data.  So we’re not reading your email.  We’re not reading your iMessage.  If the government laid a subpoena to get iMessages, we can’t provide it.  It’s encrypted and we don’t have a key.  And so it’s sort of, the door is closed.\nBut our business Charlie, is based on selling these.  Our business is not based on having information about you. You’re not our product.  Our product are these, and this watch, and Macs and so forth.  And so we run a very different company.\nI think everyone has to ask, how do companies make their money?  Follow the money.  And if they’re making money mainly by collecting gobs of personal data, I think you have a right to be worried.  And you should really understand what’s happening to that data.\nAnd companies I think should be very transparent about it.  From our point of view, you can see what we’re doing on the credit card thing.  We don’t want it.  We’re not in that business.  I’m offended by lots of it.  And so, I think people have a right to privacy.  And I think that’s going to be a very key topic over the next year or so.  And we’ll reach higher and higher levels of urgency as more and more incidents happen.\nI think that the, for us, in the Snowden thing, just to go long on that for just a moment. We wanted instantly to be totally transparent because there were rumors and things being written in the press that people had backdoors to our servers. None of that is true, zero.  We would never allow that to happen.  They would have to cart us out in a box before we would do that.  If we ever get information, and we finally got an agreement from the administration to release how many times we had national security orders on Apple.  And in a six month period, and we had to release a range, because they won’t let us say the exact number, it’s between zero and 250. That’s the lowest number you can quote.  Zero to 250."
+        },
+        {
+          "speaker": 1,
+          "text": "It could have been one or it could have been 249."
+        },
+        {
+          "speaker": 22,
+          "text": "Correct.  But, so you can tell, we have hundreds and millions of customers.  So it’s a very rare instance that there’s been any data asked.  And one of the reasons is, we don’t keep a lot.  We’re not the treasure trove of places to come to."
+        }
+      ],
+      "name": "Secrecy and Surveillance"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "I mentioned Robert Kennedy and Martin Luther King in your office.  Tell me the values you consider most important beyond the culture and the values of Apple.  To Tim Cook, the man."
+        },
+        {
+          "speaker": 22,
+          "text": "Treating people with dignity.  Treating people the same.  That everyone deserves a basic level of human rights, regardless of their color, regardless of their religion, regardless of their sexual orientation, regardless of their gender.  That everyone deserves respect. I’ll fight for it until my toes point out. I think those two guys, if you look back in history, I think -- they’re not the only two. But they laid their lives on the line.  And they knew they were doing it.  And I had the -- just tremendous respect for both of them, and so I do.\nI look at them every day because I think for people -- there’s still too many cases in the world and in the United States where there’s a class kind of structure or where voting or people are trying to convince each other that this other group of people don’t deserve the same rights.  And I think it’s crazy, I think it’s un-American.  I think it doesn’t belong.  And I also see as a businessman in Apple, I can see the value in diversity.  I see a tremendous company that because we don’t judge each other, because we don’t have different rights and so forth because we allow anyone in the front door.  I see a company that where -- that this inclusion really inspires innovation. And so I see the value of it from that point of view as well.  But from a human point of view, I feel it’s just and right.  And I’ve seen it not occur.  And I’ve seen the devastation of it not occurring, and so I want to do everything I can do to not only not profit from it --"
+        },
+        {
+          "speaker": 1,
+          "text": "What offends me most about discrimination is that you’re not being able to not access the full range of not only of humanity, but also you’re doing a huge disservice to yourself because [of] the human potential."
+        },
+        {
+          "speaker": 22,
+          "text": "I agree."
+        },
+        {
+          "speaker": 1,
+          "text": "Anything that restricts the human potential is doing a disservice to you and to everybody around you."
+        },
+        {
+          "speaker": 22,
+          "text": "I agree.  And it’s not what the country was based on.  You know, I get back to that. There’s some basic level of rights that our forefathers had the insight to think about.  And we’re still fighting 250 years, a little less than that I guess, afterwards to see that vision. That it’s worth the fight and we’ve certainly come a long way since Dr. King’s speech on the Mall, but we have a lot further to go.  We have a lot further to go."
+        }
+      ],
+      "name": "Personal Values"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "And finally there’s the threat to the planet."
+        },
+        {
+          "speaker": 22,
+          "text": "There is.  And this is one that we’re putting a lot of energy in.  You know, we want to leave the world better than we found it. What does that mean for us?  It means that we take toxins out of all of our products. We’ve done that.  Well, I think we’re still the only consumer electronics company that’s done that.  It means that we focus on renewable energy, and so we have a data center that people tell us we could never get to 100 percent renewable energy there. We’d never get there.  Well, we’re there.  We have it in Maiden, North Carolina. You should go see it.  Working with both the state and working with our -- the talent without Apple, we were able to pull that off.  We’ve got other data centers; [on] 100 percent renewable [energy].\nWe’re building the headquarters, our new headquarters.  It will be 100 percent renewable.  And we’re working on our supply chain and we’re digging deep within the supply chain and we’ve got initiatives going on there as well.  I know some people have issues with this, but to me it’s all about leaving the world better than you found it.  And I don’t know about you, but when I spend my spare time -- when I have any -- I like to be out in the national parks."
+        },
+        {
+          "speaker": 1,
+          "text": "Yeah, I do."
+        },
+        {
+          "speaker": 22,
+          "text": "And reminding myself of the land and the beauty of it.  And you can go to different places and see that slipping away.  And it's not right.  And we owe it to the generation, to the younger generation, to solve this and not to keep turning and looking at away."
+        },
+        {
+          "speaker": 1,
+          "text": "Those same values, also, ought to be applied to the people who make --"
+        },
+        {
+          "speaker": 22,
+          "text": "Yes."
+        },
+        {
+          "speaker": 1,
+          "text": "-- Apple products, wherever they live and wherever they work."
+        },
+        {
+          "speaker": 22,
+          "text": "Absolutely.  And you can see what we've done there.  We have trained now well over a million, probably two million people in their rights, and where you and I have a good view of what our rights are -- that's not the same in every country in the world. One of the best ways you can make sure that things are happening well is if people stand up and say, \"Something's happening that's not right here.\" We've audited so deep in our supply chain. We do it constantly, looking for anything that's wrong, whether it's down to the -- there's a safety exit blocked. We have gone beyond the auditing and are now essentially holding university-style classes on the manufacturing campuses with our partners, because you don't start in life at here.  You start in life at the bottom and you crawl up.\nWe're trying to provide education, which to me, is the great equalizer among people, to people on the factory floor who want and aspire to do more.  And so, we worked with local Chinese universities to employ classes right on campus, to make it super convenient for people.  I really feel that we've done a tremendous amount in this -- in this -- in this area.  And plus, we've been incredibly transparent, because this is an area unlike me being secretive about the future -- I want everybody to copy, and I'd love that everybody takes exactly what we're doing and do it.  And if they've got any better ideas, I want them.  Because I think we all ought to be, you know, just like with the environment and human rights, this is an area we ought to all share, we could all improve the world on.  It's not building a new product, where we want to keep it secretive.\nCook on Apple's responsibility"
+        },
+        {
+          "speaker": 1,
+          "text": "And the Apple of your future stands, as Steve once said, at the junction of tech and humanities?"
+        },
+        {
+          "speaker": 22,
+          "text": "Yes. It does. And you can see it in these products -- in this incredible watch.  You can feel it.  You can see that in everything we do, we have this focus on, \"How am I changing the world?  How am I enriching somebody's life?  How am I making things easier for people?\" And we're just not making products to sell, you know?  That doesn't get me up in the morning.  I get up in the morning, and many other people get in the morning, to change things.  I mean, that's -- that's who we are as a company.  That hasn't changed. We may change other things.  We may become more open.  We may participate in these things that we haven't done before.  But what drives us are making great products that enrich people's lives.  It's the same thing that has driven Apple forever."
+        },
+        {
+          "speaker": 1,
+          "text": "But it's been a good business. Are you now not the largest company in the world, in terms of market count?"
+        },
+        {
+          "speaker": 22,
+          "text": "We are. But we don't fixate on it, Charlie.  I don't get up in the morning thinking, \"Wow, we're the largest.\""
+        },
+        {
+          "speaker": 1,
+          "text": "Do you think of that in terms of the opportunities it provides you to do all the things that I've just -- we've been talking about?"
+        },
+        {
+          "speaker": 22,
+          "text": "I do."
+        },
+        {
+          "speaker": 1,
+          "text": "Whether it's technology, whether it's humanity -- it's whether it is being a good citizen."
+        },
+        {
+          "speaker": 22,
+          "text": "I do.  And I see it as a responsibility.  I don't see it as a burden.  I see it as a responsibility and I feel that this gives us even a greater ability to contribute more -- not just in the monetary sense.  We'll always contribute the most to humanity through our products, because these products will change people's lives and enable them to do things they couldn't do before.  And we could reach more people doing that.  But I'm proud to be working on Product Red with Bono.  And eliminating AIDS in Africa.  I'm proud that we're out in front on environment.  I'm proud that we're pushing like crazy in human rights.  I'm proud that we're working on education and trying to change the way teachers teach and students learn.  These things excite me.  These things move the dial in the world.  And I'm not just talking about the U.S.  I'm talking about, you know, worldwide.  I think these are the things that make our hearts sing.  These are the things that get us up in the morning.  And it drives us to do unbelievable things and work unbelievably hard.  It's not the largest market cap in the world.  This is not an objective that we're -- people will work the extra hour, will go the extra mile.  Those things aren't things that push people.  I mean, I don't know.  They don't push me, anyway. I'm not saying that I don't -- just to all the shareholders out there, I'm not saying I'm not focusing on you.  I am very focused on them.\nBut I'm talking about what drives people.  And what we've learned is something simple -- is it's very simple in a way -- is if we focus on great products that enrich people's lives, and we do that well, really well, the financial returns will follow, and our shareholders will be happy.  And it's a continuous circle.  And so, I like that because it's simple.  Too many companies focus on the -- let's try to get the largest market cap.  And that's doesn't drive people.  You know, I was at Compaq at a time where the objective was to become a $40 billion company.  Well, employees don't get excited about that.  This isn't something you wake up and you go, \"I'm going to take the hill today to do 40\" -- I mean, you know?  It's just not that.  But changing the world -- these are the things that people work for.  And this pushes people.  And so, this is who we are as people. It's the values of our company.  It's been the values of our company forever.  And it's to Steve's credit.  He put these values in the company.  It wasn't just his values.  It was his mentoring and teaching that instilled these deep in the company.  And so, if I step off the curb this afternoon -- I hope I don't -- but if I do, those will be the values of the company tomorrow.  And the next day and the next day.  It's that deep. I know I probably said it too many times, but it's a privilege of a lifetime to be there, because I think there's no place like it on earth."
+        }
+      ],
+      "name": "Labor and the Environment"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "What was it that Bono said to you – [laughter]"
+        },
+        {
+          "speaker": 22,
+          "text": "... that got me to buy his free album?"
+        },
+        {
+          "speaker": 1,
+          "text": "Yes.  [laughs] What did Bono say to get you to buy free albums?  And what did he say to you when he walked over to you at the presentation?  It was something [unintelligible] Zen Meister [spelled phonetically] -- I'm not sure what it was."
+        },
+        {
+          "speaker": 22,
+          "text": "[laughs] He called me the Zen Master -- he can't shake me.  You can't shake me up.  You know, from our point of view, it's kind of simple, is we love music.  We were thrilled with the album.  We think the album is killer.  I don't know if you've listened to it yet.  I really encourage you to do it. And so, what we wanted to do was we wanted to give something to our customers.  And I think the vast majority of them are going to love the music. Some may not love it.  I hope they all do.  But it was more about our customers.  And so, it felt great to participate in something that's music history -- one of the largest album releases ever.  But the real thing was giving something to our users."
+        },
+        {
+          "speaker": 1,
+          "text": "But you can get the album free."
+        },
+        {
+          "speaker": 22,
+          "text": "Yeah. I hope you listen to it.  They had done a killer job.  They worked on it for five years.  The band has done incredible work here.  And I think you're really going to like it.  They performed one song at our event."
+        },
+        {
+          "speaker": 1,
+          "text": "Right."
+        },
+        {
+          "speaker": 22,
+          "text": "And I think the crowd really, really liked it."
+        }
+      ],
+      "name": "U2"
+    },
+    {
+      "discussion": [
+        {
+          "speaker": 1,
+          "text": "Thank you for coming."
+        },
+        {
+          "speaker": 22,
+          "text": "It's been a pleasure."
+        },
+        {
+          "speaker": 1,
+          "text": "A pleasure."
+        },
+        {
+          "speaker": 22,
+          "text": "It's been a pleasure.  I will never forget this."
+        },
+        {
+          "speaker": 1,
+          "text": "Thank you."
+        },
+        {
+          "speaker": 22,
+          "text": "Thanks, Charlie."
+        },
+        {
+          "speaker": 1,
+          "text": "Tim Cook, CEO of Apple.  Thank you for joining us.  See you next time."
+        }
+      ],
+      "name": "Closing Remarks"
+    }
+  ]
+}
